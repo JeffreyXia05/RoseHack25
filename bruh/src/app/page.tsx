@@ -1,13 +1,15 @@
-import React from 'react'
-import CEIcon from "../../public/5672000.png"
+"use client";
+import Image from "next/image";
+import React from 'react';
+import CEIcon from '../../public/5672000.png';
 
 const page = () => {
   return (
-    <div className='flex flex-row'>
+    <div className='flex flex-row  bg-green-950 h-screen font-mono'>
       <div> 
-        <Image src={CEIcon} alt="Logo"/>
+        <Image src={CEIcon} alt="Logo" className=""/>
       </div>
-      <div className='relative flex flex-col bg-green-950 h-screen font-mono'>
+      <div className='relative flex flex-col'>
         <div className='text-end text-5xl text-green-400 pr-10 pt-10'>
           Carbon Emission
         </div>
