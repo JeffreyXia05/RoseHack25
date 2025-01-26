@@ -13,7 +13,7 @@ const page = () => {
         Statistics
       </div>
       <div className='align- ml-19'>
-        slkdfjlskdjf sodjfl skdjf lksjfl kesj lflsdflskjdflkskj flsdj flksj flksjdlf slkj dlfj slkdfj leij rbaolsdj flskj flsh odifh lskdjf lkwejf oisj dflksj fjweolhfos dfjsl fjosidhf piauhf lsjkd n;c apiesuh fpsiduhfpi
+        slkdfjlskdjf sodjfl skdjf lksjfl kesj lflsdflskjdflkskj  flksj flksjdlf slkj dlfj slkdfj leij rbaolsdj flskj flsh odifh lskdjf lkwejf oisj dflksj fjweolhfos dfjsl fjosidhf piauhf lsjkd n;c apiesuh fpsiduhfpi
       </div>
     </div>
   )
