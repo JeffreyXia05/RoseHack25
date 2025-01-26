@@ -20,7 +20,7 @@ const page = () => {
           Statistics
         </div>
         <div className='ml-[49%] pt-2 text-gray-200'>
-          slkdfjlskdjf sodjfl skdjf lksjfl kesj lflsdflskjdflkskj  flksj flksjdlf slkj dlfj slkdfj leij rbaolsdj flskj flsh odifh lskdjf lkwejf oisj dflksj fjweolhfos dfjsl fjosidhf piauhf lsjkd n;c apiesuh fpsiduhfpi
+          slkdfjlskdjf sodjfl skdjf lksjfl kesj lflsdflskjdflkskj  flksj flksjdlf slkj dlfj slkdfj leij  flskj flsh odifh lskdjf lkwejf oisj dflksj fjweolhfos dfjsl fjosidhf piauhf lsjkd n;c apiesuh fpsiduhfpi
         </div>
     </div>
 
